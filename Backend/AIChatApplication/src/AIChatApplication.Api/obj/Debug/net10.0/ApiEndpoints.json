@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AIChatApplication.Api.Controllers.ChatController",
+    "Method": "Post",
+    "RelativePath": "api/Chat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AIChatApplication.Api.Contracts.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AIChatApplication.Application.Chats.ChatReply",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\bin\Debug\net10.0\AIChatApplication.Application.deps.json
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\bin\Debug\net10.0\AIChatApplication.Application.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\bin\Debug\net10.0\AIChatApplication.Application.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\bin\Debug\net10.0\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\bin\Debug\net10.0\AIChatApplication.Domain.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.csproj.AssemblyReference.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.AssemblyInfoInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.AssemblyInfo.cs
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatAp.7DA16703.Up2Date
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\refint\AIChatApplication.Application.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\AIChatApplication.Application.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Application\obj\Debug\net10.0\ref\AIChatApplication.Application.dll

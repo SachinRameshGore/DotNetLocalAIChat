@@ -1,0 +1,17 @@
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Infrastructure.deps.json
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Infrastructure.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Infrastructure.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Application.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Application.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\bin\Debug\net10.0\AIChatApplication.Domain.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatAp.F814C075.Up2Date
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\refint\AIChatApplication.Infrastructure.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\AIChatApplication.Infrastructure.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Infrastructure\obj\Debug\net10.0\ref\AIChatApplication.Infrastructure.dll

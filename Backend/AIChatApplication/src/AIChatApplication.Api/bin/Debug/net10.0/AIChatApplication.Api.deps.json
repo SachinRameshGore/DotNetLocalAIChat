@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AIChatApplication.Api/1.0.0": {
+        "dependencies": {
+          "AIChatApplication.Application": "1.0.0",
+          "AIChatApplication.Infrastructure": "1.0.0",
+          "Microsoft.AspNetCore.OpenApi": "10.0.13"
+        },
+        "runtime": {
+          "AIChatApplication.Api.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/10.0.13": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.12.2"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "10.0.13.0",
+            "fileVersion": "10.0.1326.50504"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.12.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.12.2.0",
+            "fileVersion": "2.12.2.0"
+          }
+        }
+      },
+      "AIChatApplication.Application/1.0.0": {
+        "dependencies": {
+          "AIChatApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIChatApplication.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AIChatApplication.Domain/1.0.0": {
+        "runtime": {
+          "AIChatApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AIChatApplication.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AIChatApplication.Application": "1.0.0",
+          "AIChatApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIChatApplication.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIChatApplication.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.OpenApi/10.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XVuqUBGjVUVyb4DXR5BrSkrW0Br7sYKq39f723ILhQLlFHCyhAgWe1PkJBc42R/5mKBIgHiKVSY+PN5/4XtcQw==",
+      "path": "microsoft.aspnetcore.openapi/10.0.13",
+      "hashPath": "microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.12.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZkT7qiJe0Kj0+DTZOZo+xrDy1kNmdsWFQVPIQLNx9ZJ0T9cB2LG7r+Bi60so8/+yg1nkS7QCPadrzsTG4VPKrA==",
+      "path": "microsoft.openapi/2.12.2",
+      "hashPath": "microsoft.openapi.2.12.2.nupkg.sha512"
+    },
+    "AIChatApplication.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIChatApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIChatApplication.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

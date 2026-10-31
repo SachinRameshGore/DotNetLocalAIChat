@@ -1,0 +1,93 @@
+
+<div class="chat-page">
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-icon">AI</div>
+      <div>
+        <h1>Local AI Assistant</h1>
+        <p>Powered by .NET and Ollama</p>
+      </div>
+    </div>
+
+    <button
+      class="new-chat-button"
+      type="button"
+      (click)="startNewChat()"
+      [disabled]="loading">
+      + New chat
+    </button>
+  </header>
+
+  <main class="chat-card">
+    <div class="welcome" *ngIf="messages.length === 0">
+      <div class="welcome-icon">✦</div>
+      <h2>How can I help you today?</h2>
+      <p>Ask me about C#, .NET, software architecture, or anything else.</p>
+    </div>
+
+    <div #messageList class="message-list" aria-live="polite">
+      <div
+        *ngFor="let message of messages"
+        class="message-row"
+        [class.user-row]="message.role === 'user'"
+        [class.assistant-row]="message.role === 'assistant'">
+
+        <div class="avatar">
+          {{ message.role === 'user' ? 'You' : 'AI' }}
+        </div>
+
+        <div class="message-content">
+          <div class="message-label">
+            {{ message.role === 'user' ? 'You' : 'Assistant' }}
+          </div>
+          <div class="message-bubble">{{ message.content }}</div>
+        </div>
+      </div>
+
+      <div class="message-row assistant-row" *ngIf="loading">
+        <div class="avatar">AI</div>
+        <div class="message-content">
+          <div class="message-label">Assistant</div>
+          <div class="message-bubble typing">
+            <span></span><span></span><span></span>
+            <span class="typing-text">Generating response...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="error-banner" *ngIf="error" role="alert">
+      {{ error }}
+      <button type="button" (click)="error = ''" aria-label="Dismiss error">
+        ×
+      </button>
+    </div>
+
+    <form class="composer" (ngSubmit)="sendMessage()">
+      <textarea
+        name="message"
+        [(ngModel)]="draft"
+        (keydown)="onEnter($event)"
+        placeholder="Message your AI assistant..."
+        rows="2"
+        maxlength="8000"
+        [disabled]="loading"
+        aria-label="Message your AI assistant"></textarea>
+
+      <div class="composer-footer">
+        <span>Enter to send · Shift + Enter for a new line</span>
+
+        <button
+          class="send-button"
+          type="submit"
+          [disabled]="loading || !draft.trim()">
+          {{ loading ? 'Thinking...' : 'Send ↑' }}
+        </button>
+      </div>
+    </form>
+  </main>
+
+  <footer class="page-footer">
+    Responses are generated locally by your configured Ollama model.
+  </footer>
+</div>

@@ -1,0 +1,11 @@
+namespace AIChatApplication.Infrastructure.Ollama;
+
+public sealed class OllamaOptions
+{
+    public const string SectionName = "Ollama";
+
+    public string BaseUrl { get; set; } = "http://localhost:11434";
+    public string Model { get; set; } = string.Empty;
+    public string SystemPrompt { get; set; } = "You are a helpful AI assistant.";
+    public int TimeoutSeconds { get; set; } = 180;
+}

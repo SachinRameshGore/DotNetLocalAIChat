@@ -1,0 +1,12 @@
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\bin\Debug\net10.0\AIChatApplication.Domain.deps.json
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\bin\Debug\net10.0\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\bin\Debug\net10.0\AIChatApplication.Domain.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.AssemblyInfo.cs
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\refint\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatApplication.Domain.pdb
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\ref\AIChatApplication.Domain.dll
+C:\Users\Sachin\Downloads\AIChatApplication-Clean-Layered-Refactor\AIChatApplication\src\AIChatApplication.Domain\obj\Debug\net10.0\AIChatAp.47228681.Up2Date

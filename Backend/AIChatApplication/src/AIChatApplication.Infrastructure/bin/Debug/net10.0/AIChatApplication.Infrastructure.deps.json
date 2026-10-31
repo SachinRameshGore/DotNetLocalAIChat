@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AIChatApplication.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AIChatApplication.Application": "1.0.0",
+          "AIChatApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIChatApplication.Infrastructure.dll": {}
+        }
+      },
+      "AIChatApplication.Application/1.0.0": {
+        "dependencies": {
+          "AIChatApplication.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIChatApplication.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AIChatApplication.Domain/1.0.0": {
+        "runtime": {
+          "AIChatApplication.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIChatApplication.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIChatApplication.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIChatApplication.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
